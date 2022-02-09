@@ -13,6 +13,11 @@ public class ValidatingUIenabledisable {
 		driver.get("https://rahulshettyacademy.com/dropdownsPractise/");
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
+		System.out.println("git check");
+		System.out.println("git check");
+
+
+		
 		
 // checking if the roundtrip radio button is enabling the disabled calender to be enabled 
 		//System.out.println("calender is "+driver.findElement(By.id("ctl00_mainContent_view_date2")).isEnabled());
